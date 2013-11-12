@@ -35,5 +35,5 @@
 
 #. Panel dyskusyjny
 
-   * Ustalenie priorytetów i kierunku działania Stowarzyszenia PLPUG przez najbliższe 3, 6 i 12 miesięcy.
-   * Struktura zadaniowa i organizacja pracy na najbliższe 3 miesiące.
+   * Ustalenie priorytetów i kierunku działania Stowarzyszenia PLPUG przez najbliższe 3, 6 i 12 miesięcy
+   * Struktura zadaniowa i organizacja pracy na najbliższe 3 miesiące
