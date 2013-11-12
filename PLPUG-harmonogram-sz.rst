@@ -29,7 +29,7 @@
 
 16:25 - 16:30 (5 min)
 
-#. Zamkniecie zebrania
+#. Zamknięcie zebrania
 
 16:30 - 18:00 (90 min)
 
