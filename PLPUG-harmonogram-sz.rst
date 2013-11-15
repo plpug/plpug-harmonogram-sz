@@ -11,9 +11,9 @@
 
 #. Wybór Przewodniczącego i Sekretarza
 #. Podjęcie uchwały o powołaniu stowarzyszenia
+#. Podjęcie uchwały o przyjęciu statutu
 #. Wybór Komitetu Założycielskiego
 #. Podjęcie uchwały o wyborze komitetu założycielskiego
-#. Podjęcie uchwały o przyjęciu statutu
 
 14:25 - 15:55 (90 min)
 
